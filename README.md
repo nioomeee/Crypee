@@ -47,8 +47,8 @@ A user-friendly mobile app that simplifies cryptocurrency transactions, designed
 ## 🔧 Setup Instructions
 1. **Clone the Repository**
 ```bash
-git clone <https://github.com/nioomeee/Crypee>
-cd <Crypeee>
+git clone https://github.com/nioomeee/Crypee
+cd Crypeee
 ```
 2. **Install Dependencies**
 ```bash
