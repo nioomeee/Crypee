@@ -1,3 +1,5 @@
+![Crypee Logo](<>)
+
 # Crypee
 
 A user-friendly mobile app that simplifies cryptocurrency transactions, designed to make crypto as easy as using Google Pay or PhonePe.
