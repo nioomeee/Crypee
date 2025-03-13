@@ -1,4 +1,4 @@
-![Crypee Logo](<>)
+![Crypee Logo](<https://github.com/nioomeee/Crypee/blob/main/Crypee%20with%20name.svg>)
 
 # Crypee
 
